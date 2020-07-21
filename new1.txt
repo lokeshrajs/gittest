@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 First line of code change from 1st repo
+=======
+First line of code change in 2nd repo
+>>>>>>> b7c7739532d6ac19630b6b53b8a968f4b15f02a6
